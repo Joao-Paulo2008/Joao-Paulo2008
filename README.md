@@ -8,7 +8,7 @@ Meu nome é João Paulo, residente no município de Crateús. Concluí o ensino 
    <a href="https://github.com/Joao-Paulo2008?tab=repositories&sort=stargazers">
   <img alt="" title="" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo">
   </a> 
-  <a href="https://github.com/Joao-Paulo2008?tab=repositories&sort=stargazers">
+  <a href="https://github.com/Joao-Paulo2008?tab=stars">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Joao-Paulo2008?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/Joao-Paulo2008?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Joao-Paulo2008?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
